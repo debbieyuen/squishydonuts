@@ -1,2 +1,2 @@
-# squishydonuts
+# Squishy Donuts
 Squishy Donuts
