@@ -5,19 +5,19 @@ Squishy Donuts is an abstract simulation made with Unity, MunBun, Squash and Str
 
 ### Requirements
   * Unity 2021.1.24f1
-  * Obi Softbody: https://assetstore.unity.com/packages/tools/physics/obi-softbody-130029
-  * MudBun: https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-modeling-177891
-  * Squash & Stretch: https://assetstore.unity.com/packages/tools/particles-effects/squash-stretch-kit-106993
+  * [Obi Softbody](https://assetstore.unity.com/packages/tools/physics/obi-softbody-130029)
+  * [MudBun](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-modeling-177891)
+  * [Squash & Stretch](https://assetstore.unity.com/packages/tools/particles-effects/squash-stretch-kit-106993)
 
 ### Donut Interactions
-| Action | Element |
+| Action | Reaction |
 | --- | --- |
-| Drag | 🍩  |
-| Bounch | 🍩  |
-| Tug | 🍩  |
-| Grab | 🍩  |
-| Pull | 🍩  |
-| Throw| 🍩  |
+| Drag | Crumbles and falls apart  |
+| Bounce | Donut jiggles and crumbles |
+| Tug | Donut's dough stretches  |
+| Grab | Parts of the donut come apart |
+| Pull | Donut's dough pulls and comes apart |
+| Throw| Donut breaks into large pieces  |
 
 
 ## Project Setup
